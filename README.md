@@ -1,6 +1,7 @@
 
 
 ## Key Takeaways
+This project will get user's location, using the javascript geolocation api, and based on where they are it will render specific text and icon. If it's summer, load icons with the sun and text about summer. If it's winter we do the same.
 
 This module introduced me to lifecycle methods and class based components. I was able to see how we can handle conditional rendering in React and how we use state to to handle data that's passed along components. I was also able to see the power of class based components and handling state as well as lifecycle methods. All stuff I'd read before but finally put into practice.
 
