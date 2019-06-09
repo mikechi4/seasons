@@ -7,4 +7,4 @@ This module introduced me to lifecycle methods and class based components. I was
 Also learned some best practices based on what the community says such as:
   - using componentDidMount() to handle data loading instead of loading data when initializing state
   - best to use a helper method to handle conditional rendering instead of having multiple return statements in render function
-  - modularize everything!!
+  - modularize everything!! pretty obvious - but I didn't think to even create a componenet for that will handle "Loading.." text on the UI
